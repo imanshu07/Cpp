@@ -1,0 +1,1 @@
+if(i > idx && arr[i] == arr[i-1]) continue;
